@@ -3,10 +3,13 @@ anthropic==0.31.2
 google-generativeai==0.7.2
 tiktoken==0.7.0
 streamlit==1.36.0
-langchain==0.1.16
+langchain==0.2.22  # langchain-core==0.2.22と互換性のあるバージョンを指定
 langchain-community==0.0.36
 langchain-openai==0.1.17
 langchain-core==0.2.22
 langchain-google-genai==1.0.8
 langchain-anthropic==0.1.20
+
+
+
 
